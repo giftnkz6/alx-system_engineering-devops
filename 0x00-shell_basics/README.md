@@ -1,1 +1,1 @@
-Creates a directory
+Delete the file betty
